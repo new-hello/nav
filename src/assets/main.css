@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+@variant dark (&:where(.dark, .dark *));
+
+@theme {
+  /* 自定义颜色 */
+  --color-primary-50: #f0f9ff;
+  --color-primary-100: #e0f2fe;
+  --color-primary-200: #bae6fd;
+  --color-primary-300: #7dd3fc;
+  --color-primary-400: #38bdf8;
+  --color-primary-500: #0ea5e9;
+  --color-primary-600: #0284c7;
+  --color-primary-700: #0369a1;
+  --color-primary-800: #075985;
+  --color-primary-900: #0c4a6e;
+  --color-primary-950: #082f49;
+
+  /* 深色模式颜色 */
+  --color-dark-bg: #1a1a1a;
+  --color-dark-surface: #2d2d2d;
+  --color-dark-border: #404040;
+  --color-dark-hover: #3a3a3a;
+
+  /* 自定义间距 */
+  --spacing-18: 4.5rem;
+  --spacing-88: 22rem;
+
+  /* 最大宽度 */
+  --max-width-content: 1280px;
+}
+
+/* 滚动条样式 - 浅色模式 */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* 滚动条样式 - 深色模式 */
+.dark ::-webkit-scrollbar-track {
+  background: #2d2d2d;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: #555;
+  border-radius: 6px;
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: #777;
+}

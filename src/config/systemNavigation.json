@@ -1,0 +1,2244 @@
+{
+  "version": "2.0",
+  "categories": [
+    {
+      "name": "常用",
+      "subcategories": [],
+      "tags": [
+        {
+          "name": "抖音",
+          "url": "https://example.com",
+          "icon": "/icons/Entertainment/ShortVideo/抖音.png"
+        },
+        {
+          "name": "哔哩哔哩",
+          "url": "https://example.com",
+          "icon": "/icons/Entertainment/Video/哔哩哔哩.png"
+        },
+        {
+          "name": "腾讯视频",
+          "url": "https://example.com",
+          "icon": "/icons/Entertainment/Video/腾讯视频.png"
+        },
+        {
+          "name": "爱奇艺",
+          "url": "https://example.com",
+          "icon": "/icons/Entertainment/Video/爱奇艺.png"
+        },
+        {
+          "name": "优酷",
+          "url": "https://example.com",
+          "icon": "/icons/Entertainment/Video/优酷.png"
+        }
+      ]
+    },
+        {
+      "name": "政务服务",
+      "subcategories": [
+        {
+          "name": "全国",
+          "tags": [
+            {
+              "name": "国家政务服务平台",
+              "url": "https://gjzwfw.www.gov.cn/",
+              "icon": "/icons/Gov/all.png"
+            }
+          ]
+        },
+        {
+          "name": "华北",
+          "tags": [
+            {
+              "name": "北京政务服务网",
+              "url": "https://banshi.beijing.gov.cn/",
+              "icon": "/icons/Gov/北京.png"
+            },
+            {
+              "name": "天津网上办事大厅",
+              "url": "https://zwfw.tj.gov.cn/",
+              "icon": "/icons/Gov/all.png"
+            },
+            {
+              "name": "河北政务服务网",
+              "url": "http://www.hbzwfw.gov.cn/",
+              "icon": "/icons/Gov/all.png"
+            },
+            {
+              "name": "山西政务服务网",
+              "url": "https://www.sxzwfw.gov.cn/",
+              "icon": "/icons/Gov/all.png"
+            },
+            {
+              "name": "内蒙古政务服务网",
+              "url": "https://zwfw.nmg.gov.cn/?record=istrue",
+              "icon": "/icons/Gov/内蒙古.png"
+            }
+          ]
+        },
+        {
+          "name": "西南",
+          "tags": [
+            {
+              "name": "四川政务服务网",
+              "url": "https://www.sczwfw.gov.cn/",
+              "icon": "/icons/Gov/四川.png"
+            },
+            {
+              "name": "重庆政务服务网",
+              "url": "https://zwfw.cq.gov.cn/",
+              "icon": "/icons/Gov/重庆.png"
+            },
+            {
+              "name": "贵州政务服务",
+              "url": "https://zwfw.guizhou.gov.cn/",
+              "icon": "/icons/Gov/贵州.png"
+            },
+            {
+              "name": "云南政务服务网",
+              "url": "https://zwfw.yn.gov.cn/",
+              "icon": "/icons/Gov/all.png"
+            },
+            {
+              "name": "西藏政务服务网",
+              "url": "https://www.xzzwfw.gov.cn/",
+              "icon": "/icons/Gov/西藏.png"
+            }
+          ]
+        },
+        {
+          "name": "华南",
+          "tags": [
+            {
+              "name": "广东政务服务网",
+              "url": "https://www.gdzwfw.gov.cn/",
+              "icon": "/icons/Gov/广东.png"
+            },
+            {
+              "name": "广西数字政务一体化平台",
+              "url": "https://zwfw.gxzf.gov.cn/",
+              "icon": "/icons/Gov/all.png"
+            },
+            {
+              "name": "海南政务服务网",
+              "url": "https://wssp.hainan.gov.cn/",
+              "icon": "/icons/Gov/海南.png"
+            },
+            {
+              "name": "香港政府一站通",
+              "url": "https://www.gov.hk/",
+              "icon": "/icons/Gov/香港.png"
+            },
+            {
+              "name": "澳门特别行政区政府入口网站",
+              "url": "https://www.gov.mo/",
+              "icon": "/icons/Gov/澳门.png"
+            }
+          ]
+        },
+        {
+          "name": "东北",
+          "tags": [
+            {
+              "name": "辽宁政务服务",
+              "url": "https://www.lnzwfw.gov.cn/",
+              "icon": "/icons/Gov/辽宁.png"
+            },
+            {
+              "name": "吉林省网上办事大厅（吉事办）",
+              "url": "https://zwfw.jl.gov.cn/jlszwfw/",
+              "icon": "/icons/Gov/all.png"
+            },
+            {
+              "name": "黑龙江政务服务网",
+              "url": "https://www.zwfw.hlj.gov.cn/",
+              "icon": "/icons/Gov/黑龙江.png"
+            }
+          ]
+        },
+        {
+          "name": "华东",
+          "tags": [
+            {
+              "name": "上海政务服务窗口",
+              "url": "https://zwdt.sh.gov.cn/",
+              "icon": "/icons/Gov/上海.png"
+            },
+            {
+              "name": "江苏政务服务网",
+              "url": "https://www.jszwfw.gov.cn/",
+              "icon": "/icons/Gov/江苏.png"
+            },
+            {
+              "name": "浙江政务服务网",
+              "url": "https://www.zjzwfw.gov.cn/",
+              "icon": "/icons/Gov/浙江.png"
+            },
+            {
+              "name": "安徽政务服务网",
+              "url": "https://www.ahzwfw.gov.cn/",
+              "icon": "/icons/Gov/all.png"
+            },
+            {
+              "name": "福建政务服务网",
+              "url": "https://zwfw.fujian.gov.cn/",
+              "icon": "/icons/Gov/all.png"
+            },
+            {
+              "name": "江西政务服务网",
+              "url": "https://www.jxzwfww.gov.cn/",
+              "icon": "/icons/Gov/all.png"
+            },
+            {
+              "name": "山东省人民政府政务服务",
+              "url": "http://www.shandong.gov.cn/col/col94091/index.html",
+              "icon": "/icons/Gov/all.png"
+            },
+            {
+              "name": "台湾（我的E政府）",
+              "url": "https://www.gov.tw/",
+              "icon": "/icons/Gov/台湾.png"
+            }
+          ]
+        },
+        {
+          "name": "华中",
+          "tags": [
+            {
+              "name": "河南政务服务网",
+              "url": "https://www.hnzwfw.gov.cn/",
+              "icon": "/icons/Gov/河南.png"
+            },
+            {
+              "name": "湖北政务服务网",
+              "url": "https://zwfw.hubei.gov.cn",
+              "icon": "/icons/Gov/all.png"
+            },
+            {
+              "name": "湖南省政务服务",
+              "url": "https://zwfw-new.hunan.gov.cn/",
+              "icon": "/icons/Gov/湖南.png"
+            }
+          ]
+        },
+        {
+          "name": "西北",
+          "tags": [
+            {
+              "name": "陕西政务服务网",
+              "url": "https://zwfw.shaanxi.gov.cn/",
+              "icon": "/icons/Gov/陕西.png"
+            },
+            {
+              "name": "甘肃政务服务网",
+              "url": "https://zwfw.gansu.gov.cn/",
+              "icon": "/icons/Gov/甘肃.png"
+            },
+            {
+              "name": "青海政务服务网",
+              "url": "https://www.qhzwfw.gov.cn/",
+              "icon": "/icons/Gov/all.png"
+            },
+            {
+              "name": "宁夏政务服务网",
+              "url": "https://zwfw.nx.gov.cn/",
+              "icon": "/icons/Gov/all.png"
+            },
+            {
+              "name": "新疆政务服务网",
+              "url": "https://zwfw.xinjiang.gov.cn/",
+              "icon": "/icons/Gov/新疆.png"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "name": "生活工具",
+      "subcategories": [
+        {
+          "name": "社交",
+          "tags": [
+            {
+              "name": "QQ",
+              "url": "https://im.qq.com/",
+              "icon": "/icons/LifeTools/Social/QQ.svg"
+            },
+            {
+              "name": "微信",
+              "url": "https://weixin.qq.com/",
+              "icon": "/icons/LifeTools/Social/微信.png"
+            },
+            {
+              "name": "TIM",
+              "url": "https://office.qq.com/",
+              "icon": "/icons/LifeTools/Social/TIM.png"
+            },
+            {
+              "name": "小红书",
+              "url": "https://www.xiaohongshu.com/",
+              "icon": "/icons/LifeTools/Social/小红书.png"
+            },
+            {
+              "name": "知乎",
+              "url": "https://www.zhihu.com/",
+              "icon": "/icons/LifeTools/Social/知乎.png"
+            },
+            {
+              "name": "豆瓣",
+              "url": "https://www.douban.com/",
+              "icon": "/icons/LifeTools/Social/豆瓣.png"
+            },
+            {
+              "name": "微博",
+              "url": "https://weibo.com/",
+              "icon": "/icons/LifeTools/Social/微博.png"
+            },
+            {
+              "name": "贴吧",
+              "url": "https://tieba.baidu.com/",
+              "icon": "/icons/LifeTools/Social/贴吧.png"
+            },
+            {
+              "name": "X",
+              "url": "https://x.com/",
+              "icon": "/icons/LifeTools/Social/X.png"
+            },
+            {
+              "name": "Instagram",
+              "url": "https://www.instagram.com/",
+              "icon": "/icons/LifeTools/Social/Instagram.png"
+            },
+            {
+              "name": "Facebook",
+              "url": "https://www.facebook.com/",
+              "icon": "/icons/LifeTools/Social/Facebook.png"
+            },
+            {
+              "name": "Reddit",
+              "url": "https://www.reddit.com/",
+              "icon": "/icons/LifeTools/Social/Reddit.png"
+            },
+            {
+              "name": "WhatsApp",
+              "url": "https://www.whatsapp.com/",
+              "icon": "/icons/LifeTools/Social/WhatsApp.png"
+            }
+          ]
+        },
+        {
+          "name": "办公",
+          "tags": [
+            {
+              "name": "企业微信",
+              "url": "https://work.weixin.qq.com/",
+              "icon": "/icons/LifeTools/Office/企业微信.png"
+            },
+            {
+              "name": "钉钉",
+              "url": "https://www.dingtalk.com/",
+              "icon": "/icons/LifeTools/Office/钉钉.svg"
+            },
+            {
+              "name": "飞书",
+              "url": "https://www.feishu.cn/",
+              "icon": "/icons/LifeTools/Office/飞书.png"
+            },
+            {
+              "name": "腾讯会议",
+              "url": "https://meeting.tencent.com/",
+              "icon": "/icons/LifeTools/Office/腾讯会议.png"
+            },
+            {
+              "name": "Microsoft Teams",
+              "url": "https://www.microsoft.com/microsoft-teams",
+              "icon": "/icons/LifeTools/Office/Microsoft Teams.png"
+            },
+            {
+              "name": "Zoom",
+              "url": "https://zoom.us/",
+              "icon": "/icons/LifeTools/Office/Zoom.png"
+            },
+            {
+              "name": "Slack",
+              "url": "https://slack.com/",
+              "icon": "/icons/LifeTools/Office/Slack.png"
+            },
+            {
+              "name": "Monday",
+              "url": "https://monday.com/",
+              "icon": "/icons/LifeTools/Office/Monday.png"
+            }
+          ]
+        },
+        {
+          "name": "邮箱",
+          "tags": [
+            {
+              "name": "QQ邮箱",
+              "url": "https://mail.qq.com/",
+              "icon": "/icons/LifeTools/Email/QQ邮箱.png"
+            },
+            {
+              "name": "163邮箱",
+              "url": "https://mail.163.com/",
+              "icon": "/icons/LifeTools/Email/163邮箱.png"
+            },
+            {
+              "name": "126邮箱",
+              "url": "https://mail.126.com/",
+              "icon": "/icons/LifeTools/Email/126邮箱.png"
+            },
+            {
+              "name": "Outlook",
+              "url": "https://outlook.live.com/",
+              "icon": "/icons/LifeTools/Email/Outlook.png"
+            },
+            {
+              "name": "Gmail",
+              "url": "https://mail.google.com/",
+              "icon": "/icons/LifeTools/Email/Gmail.png"
+            },
+            {
+              "name": "Yahoo Mail",
+              "url": "https://mail.yahoo.com/",
+              "icon": "/icons/LifeTools/Email/Yahoo Mail.png"
+            }
+          ]
+        },
+        {
+          "name": "地图",
+          "tags": [
+            {
+              "name": "高德地图",
+              "url": "https://www.amap.com/",
+              "icon": "/icons/LifeTools/Map/高德地图.png"
+            },
+            {
+              "name": "百度地图",
+              "url": "https://map.baidu.com/",
+              "icon": "/icons/LifeTools/Map/百度地图.png"
+            },
+            {
+              "name": "腾讯地图",
+              "url": "https://map.qq.com/",
+              "icon": "/icons/LifeTools/Map/腾讯地图.png"
+            },
+            {
+              "name": "Google Maps",
+              "url": "https://www.google.com/maps",
+              "icon": "/icons/LifeTools/Map/Google Maps.png"
+            }
+          ]
+        },
+        {
+          "name": "出行",
+          "tags": [
+            {
+              "name": "12306",
+              "url": "https://www.12306.cn/",
+              "icon": "/icons/LifeTools/Travel/12306.png"
+            },
+            {
+              "name": "去哪儿",
+              "url": "https://www.qunar.com/",
+              "icon": "/icons/LifeTools/Travel/去哪儿.png"
+            },
+            {
+              "name": "携程",
+              "url": "https://www.ctrip.com/",
+              "icon": "/icons/LifeTools/Travel/携程.png"
+            },
+            {
+              "name": "飞猪",
+              "url": "https://www.fliggy.com/",
+              "icon": "/icons/LifeTools/Travel/飞猪.png"
+            },
+            {
+              "name": "同程旅行",
+              "url": "https://www.ly.com/",
+              "icon": "/icons/LifeTools/Travel/同程旅行.png"
+            },
+            {
+              "name": "马蜂窝",
+              "url": "https://www.mafengwo.cn/",
+              "icon": "/icons/LifeTools/Travel/马蜂窝.png"
+            },
+            {
+              "name": "途牛",
+              "url": "https://www.tuniu.com/",
+              "icon": "/icons/LifeTools/Travel/途牛.png"
+            },
+            {
+              "name": "Airbnb",
+              "url": "https://www.airbnb.cn/",
+              "icon": "/icons/LifeTools/Travel/Airbnb.png"
+            },
+            {
+              "name": "Booking",
+              "url": "https://www.booking.com/",
+              "icon": "/icons/LifeTools/Travel/Booking.png"
+            }
+          ]
+        },
+        {
+          "name": "外卖",
+          "tags": [
+            {
+              "name": "美团",
+              "url": "https://www.meituan.com/",
+              "icon": "/icons/LifeTools/Food/美团.png"
+            },
+            {
+              "name": "淘宝闪购",
+              "url": "https://www.ele.me/",
+              "icon": "/icons/LifeTools/Food/淘宝闪购.png"
+            },
+            {
+              "name": "大众点评",
+              "url": "https://www.dianping.com/",
+              "icon": "/icons/LifeTools/Food/大众点评.png"
+            },
+            {
+              "name": "肯德基",
+              "url": "https://www.kfc.com.cn/",
+              "icon": "/icons/LifeTools/Food/肯德基.png"
+            },
+            {
+              "name": "麦当劳",
+              "url": "https://www.mcdonalds.com.cn/",
+              "icon": "/icons/LifeTools/Food/麦当劳.png"
+            },
+            {
+              "name": "必胜客",
+              "url": "https://www.pizzahut.com.cn/",
+              "icon": "/icons/LifeTools/Food/必胜客.png"
+            },
+            {
+              "name": "星巴克",
+              "url": "https://www.starbucks.com.cn/",
+              "icon": "/icons/LifeTools/Food/星巴克.png"
+            }
+          ]
+        },
+        {
+          "name": "支付",
+          "tags": [
+            {
+              "name": "支付宝",
+              "url": "https://www.alipay.com/",
+              "icon": ""
+            },
+            {
+              "name": "微信支付",
+              "url": "https://pay.weixin.qq.com/",
+              "icon": ""
+            },
+            {
+              "name": "PayPal",
+              "url": "https://www.paypal.com/",
+              "icon": ""
+            },
+            {
+              "name": "Apple Pay",
+              "url": "https://www.apple.com/apple-pay/",
+              "icon": ""
+            }
+          ]
+        },
+        {
+          "name": "快递",
+          "tags": [
+            {
+              "name": "菜鸟裹裹",
+              "url": "https://www.cainiao.com/",
+              "icon": ""
+            },
+            {
+              "name": "顺丰速运",
+              "url": "https://www.sf-express.com/",
+              "icon": ""
+            },
+            {
+              "name": "京东物流",
+              "url": "https://www.jdl.com/",
+              "icon": ""
+            },
+            {
+              "name": "圆通速递",
+              "url": "https://www.yto.net.cn/",
+              "icon": ""
+            },
+            {
+              "name": "中通快递",
+              "url": "https://www.zto.com/",
+              "icon": ""
+            },
+            {
+              "name": "韵达快递",
+              "url": "https://www.yundaex.com/",
+              "icon": ""
+            }
+          ]
+        },
+        {
+          "name": "天气",
+          "tags": [
+            {
+              "name": "中国天气网",
+              "url": "http://www.weather.com.cn/",
+              "icon": ""
+            },
+            {
+              "name": "墨迹天气",
+              "url": "https://www.moji.com/",
+              "icon": ""
+            },
+            {
+              "name": "彩云天气",
+              "url": "https://www.caiyunapp.com/",
+              "icon": ""
+            }
+          ]
+        },
+        {
+          "name": "翻译",
+          "tags": [
+            {
+              "name": "Google翻译",
+              "url": "https://translate.google.com/",
+              "icon": ""
+            },
+            {
+              "name": "DeepL",
+              "url": "https://www.deepl.com/",
+              "icon": ""
+            },
+            {
+              "name": "有道翻译",
+              "url": "https://fanyi.youdao.com/",
+              "icon": ""
+            },
+            {
+              "name": "百度翻译",
+              "url": "https://fanyi.baidu.com/",
+              "icon": ""
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "name": "办公学习",
+      "subcategories": [
+        {
+          "name": "文档",
+          "tags": [
+            {
+              "name": "腾讯文档",
+              "url": "https://docs.qq.com/",
+              "icon": "/icons/OfficeStudy/Document/腾讯文档.png"
+            },
+            {
+              "name": "金山文档",
+              "url": "https://www.kdocs.cn/",
+              "icon": "/icons/OfficeStudy/Document/金山文档.png"
+            },
+            {
+              "name": "钉钉文档",
+              "url": "https://docs.dingtalk.com/",
+              "icon": "/icons/OfficeStudy/Document/钉钉文档.png"
+            },
+            {
+              "name": "飞书文档",
+              "url": "https://www.feishu.cn/product/docs",
+              "icon": "/icons/OfficeStudy/Document/飞书文档.png"
+            },
+            {
+              "name": "WPS",
+              "url": "https://www.wps.cn/",
+              "icon": "/icons/OfficeStudy/Document/WPS.png"
+            },
+            {
+              "name": "Office 365",
+              "url": "https://www.office.com/",
+              "icon": "/icons/OfficeStudy/Document/Office 365.png"
+            },
+            {
+              "name": "Google Docs",
+              "url": "https://docs.google.com/",
+              "icon": "/icons/OfficeStudy/Document/Google Docs.png"
+            },
+            {
+              "name": "石墨文档",
+              "url": "https://shimo.im/",
+              "icon": "/icons/OfficeStudy/Document/石墨文档.png"
+            },
+            {
+              "name": "语雀",
+              "url": "https://www.yuque.com/",
+              "icon": "/icons/OfficeStudy/Document/语雀.png"
+            }
+          ]
+        },
+        {
+          "name": "工具",
+          "tags": [
+            {
+              "name": "iLoveIMG",
+              "url": "https://www.iloveimg.com/zh-cn",
+              "icon": "/icons/OfficeStudy/Tools/iLoveIMG.png"
+            },
+            {
+              "name": "iLovePDF",
+              "url": "https://www.ilovepdf.com/zh-cn",
+              "icon": "/icons/OfficeStudy/Tools/iLovePDF.png"
+            },
+            {
+              "name": "Convertio",
+              "url": "https://convertio.co/zh/",
+              "icon": "/icons/OfficeStudy/Tools/Convertio.png"
+            },
+            {
+              "name": "PDFgear",
+              "url": "https://www.pdfgear.com/zh/edit-pdf/",
+              "icon": "/icons/OfficeStudy/Tools/PDFgear.png"
+            },
+            {
+              "name": "创客贴",
+              "url": "https://www.chuangkit.com/",
+              "icon": "/icons/OfficeStudy/Tools/创客贴.png"
+            },
+            {
+              "name": "稿定设计",
+              "url": "https://www.gaoding.com/",
+              "icon": "/icons/OfficeStudy/Tools/稿定设计.png"
+            },
+            {
+              "name": "图怪兽",
+              "url": "https://818ps.com/",
+              "icon": "/icons/OfficeStudy/Tools/图怪兽.png"
+            },
+            {
+              "name": "Remove.bg",
+              "url": "https://www.remove.bg/",
+              "icon": "/icons/OfficeStudy/Tools/Remove.bg.png"
+            }
+          ]
+        },
+        {
+          "name": "网盘",
+          "tags": [
+            {
+              "name": "百度网盘",
+              "url": "https://pan.baidu.com/",
+              "icon": "/icons/OfficeStudy/CloudStorage/百度网盘.png"
+            },
+            {
+              "name": "115网盘",
+              "url": "https://115.com/",
+              "icon": "/icons/OfficeStudy/CloudStorage/115网盘.png"
+            },
+            {
+              "name": "阿里云盘",
+              "url": "https://www.aliyundrive.com/",
+              "icon": "/icons/OfficeStudy/CloudStorage/阿里云盘.png"
+            },
+            {
+              "name": "夸克网盘",
+              "url": "https://pan.quark.cn/",
+              "icon": "/icons/OfficeStudy/CloudStorage/夸克网盘.png"
+            },
+            {
+              "name": "腾讯微云",
+              "url": "https://www.weiyun.com/",
+              "icon": "/icons/OfficeStudy/CloudStorage/腾讯微云.png"
+            },
+            {
+              "name": "天翼云盘",
+              "url": "https://cloud.189.cn/",
+              "icon": "/icons/OfficeStudy/CloudStorage/天翼云盘.png"
+            },
+            {
+              "name": "OneDrive",
+              "url": "https://onedrive.live.com/",
+              "icon": "/icons/OfficeStudy/CloudStorage/OneDrive.png"
+            },
+            {
+              "name": "Google Drive",
+              "url": "https://drive.google.com/",
+              "icon": "/icons/OfficeStudy/CloudStorage/Google Drive.png"
+            },
+            {
+              "name": "iCloud",
+              "url": "https://www.icloud.com/",
+              "icon": "/icons/OfficeStudy/CloudStorage/iCloud.png"
+            }
+          ]
+        },
+        {
+          "name": "学习",
+          "tags": [
+            {
+              "name": "中国大学MOOC",
+              "url": "https://www.icourse163.org/",
+              "icon": "/icons/OfficeStudy/Learning/中国大学MOOC.png"
+            },
+            {
+              "name": "慕课网",
+              "url": "https://www.imooc.com/",
+              "icon": "/icons/OfficeStudy/Learning/慕课网.png"
+            },
+            {
+              "name": "学堂在线",
+              "url": "https://www.xuetangx.com/",
+              "icon": "/icons/OfficeStudy/Learning/学堂在线.png"
+            },
+            {
+              "name": "腾讯课堂",
+              "url": "https://ke.qq.com/",
+              "icon": "/icons/OfficeStudy/Learning/腾讯课堂.png"
+            },
+            {
+              "name": "网易公开课",
+              "url": "https://open.163.com/",
+              "icon": "/icons/OfficeStudy/Learning/网易公开课.png"
+            },
+            {
+              "name": "网易云课堂",
+              "url": "https://study.163.com/",
+              "icon": "/icons/OfficeStudy/Learning/网易云课堂.png"
+            },
+            {
+              "name": "Coursera",
+              "url": "https://www.coursera.org/",
+              "icon": "/icons/OfficeStudy/Learning/Coursera.png"
+            },
+            {
+              "name": "edX",
+              "url": "https://www.edx.org/",
+              "icon": "/icons/OfficeStudy/Learning/edX.png"
+            },
+            {
+              "name": "B站学习区",
+              "url": "https://www.bilibili.com/v/knowledge/",
+              "icon": ""
+            },
+            {
+              "name": "知乎学堂",
+              "url": "https://www.zhihu.com/education",
+              "icon": ""
+            },
+            {
+              "name": "得到",
+              "url": "https://www.dedao.cn/",
+              "icon": ""
+            },
+            {
+              "name": "樊登读书",
+              "url": "https://www.dushu.io/",
+              "icon": ""
+            }
+          ]
+        },
+        {
+          "name": "笔记",
+          "tags": [
+            {
+              "name": "Notion",
+              "url": "https://www.notion.so/",
+              "icon": ""
+            },
+            {
+              "name": "印象笔记",
+              "url": "https://www.yinxiang.com/",
+              "icon": ""
+            },
+            {
+              "name": "为知笔记",
+              "url": "https://www.wiz.cn/",
+              "icon": ""
+            },
+            {
+              "name": "Obsidian",
+              "url": "https://obsidian.md/",
+              "icon": ""
+            },
+            {
+              "name": "Roam Research",
+              "url": "https://roamresearch.com/",
+              "icon": ""
+            }
+          ]
+        },
+        {
+          "name": "思维导图",
+          "tags": [
+            {
+              "name": "XMind",
+              "url": "https://www.xmind.cn/",
+              "icon": ""
+            },
+            {
+              "name": "MindMaster",
+              "url": "https://www.edrawsoft.cn/mindmaster/",
+              "icon": ""
+            },
+            {
+              "name": "百度脑图",
+              "url": "https://naotu.baidu.com/",
+              "icon": ""
+            },
+            {
+              "name": "ProcessOn",
+              "url": "https://www.processon.com/",
+              "icon": ""
+            }
+          ]
+        },
+        {
+          "name": "日程管理",
+          "tags": [
+            {
+              "name": "滴答清单",
+              "url": "https://www.dida365.com/",
+              "icon": ""
+            },
+            {
+              "name": "Microsoft To Do",
+              "url": "https://to-do.office.com/",
+              "icon": ""
+            },
+            {
+              "name": "Todoist",
+              "url": "https://todoist.com/",
+              "icon": ""
+            },
+            {
+              "name": "Any.do",
+              "url": "https://www.any.do/",
+              "icon": ""
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "name": "搜索",
+      "subcategories": [],
+      "tags": [
+        {
+          "name": "必应",
+          "url": "https://cn.bing.com/",
+          "icon": "/icons/Search/Bing.svg"
+        },
+        {
+          "name": "Google",
+          "url": "https://www.google.com",
+          "icon": "/icons/Search/Google.svg"
+        },
+        {
+          "name": "百度",
+          "url": "https://www.baidu.com/",
+          "icon": "/icons/Search/百度.svg"
+        },
+        {
+          "name": "360",
+          "url": "https://www.so.com/",
+          "icon": "/icons/Search/360.png"
+        },
+        {
+          "name": "搜狗",
+          "url": "https://www.sogou.com/",
+          "icon": "/icons/Search/搜狗.png"
+        },
+        {
+          "name": "DuckDuckGo",
+          "url": "https://duckduckgo.com/",
+          "icon": "/icons/Search/DuckDuckGo.png"
+        }
+      ]
+    },
+    {
+      "name": "影音娱乐",
+      "subcategories": [
+        {
+          "name": "视频",
+          "tags": [
+            {
+              "name": "哔哩哔哩",
+              "url": "https://www.bilibili.com/",
+              "icon": "/icons/Entertainment/Video/哔哩哔哩.png"
+            },
+            {
+              "name": "YouTube",
+              "url": "https://www.youtube.com/",
+              "icon": "/icons/Entertainment/Video/YouTube.png"
+            },
+            {
+              "name": "腾讯视频",
+              "url": "https://v.qq.com/",
+              "icon": "/icons/Entertainment/Video/腾讯视频.png"
+            },
+            {
+              "name": "爱奇艺",
+              "url": "https://www.iqiyi.com/",
+              "icon": "/icons/Entertainment/Video/爱奇艺.png"
+            },
+            {
+              "name": "优酷",
+              "url": "https://www.youku.com/",
+              "icon": "/icons/Entertainment/Video/优酷.png"
+            },
+            {
+              "name": "芒果TV",
+              "url": "https://www.mgtv.com/",
+              "icon": "/icons/Entertainment/Video/芒果TV.png"
+            },
+            {
+              "name": "Netflix",
+              "url": "https://www.netflix.com/",
+              "icon": "/icons/Entertainment/Video/Netflix.png"
+            },
+            {
+              "name": "Disney+",
+              "url": "https://www.disneyplus.com/",
+              "icon": "/icons/Entertainment/Video/Disney+.png"
+            },
+            {
+              "name": "HBO Max",
+              "url": "https://www.hbomax.com/",
+              "icon": "/icons/Entertainment/Video/HBO Max.png"
+            },
+            {
+              "name": "Prime Video",
+              "url": "https://www.primevideo.com/",
+              "icon": "/icons/Entertainment/Video/Prime Video.png"
+            },
+            {
+              "name": "Instagram",
+              "url": "https://www.instagram.com/",
+              "icon": "/icons/Entertainment/Video/Instagram.png"
+            }
+          ]
+        },
+        {
+          "name": "音乐",
+          "tags": [
+            {
+              "name": "网易云音乐",
+              "url": "https://music.163.com/",
+              "icon": "/icons/Entertainment/Music/网易云音乐.png"
+            },
+            {
+              "name": "QQ音乐",
+              "url": "https://y.qq.com/",
+              "icon": "/icons/Entertainment/Music/QQ音乐.png"
+            },
+            {
+              "name": "酷狗音乐",
+              "url": "https://www.kugou.com/",
+              "icon": "/icons/Entertainment/Music/酷狗音乐.png"
+            },
+            {
+              "name": "酷我音乐",
+              "url": "https://www.kuwo.cn/",
+              "icon": "/icons/Entertainment/Music/酷我音乐.png"
+            },
+            {
+              "name": "汽水音乐",
+              "url": "https://music.douyin.com/qishui",
+              "icon": "/icons/Entertainment/Music/汽水音乐.png"
+            },
+            {
+              "name": "咪咕音乐",
+              "url": "https://music.migu.cn/",
+              "icon": "/icons/Entertainment/Music/咪咕音乐.png"
+            },
+            {
+              "name": "Apple Music",
+              "url": "https://music.apple.com/",
+              "icon": "/icons/Entertainment/Music/Apple Music.png"
+            },
+            {
+              "name": "Spotify",
+              "url": "https://www.spotify.com/",
+              "icon": "/icons/Entertainment/Music/Spotify.png"
+            },
+            {
+              "name": "YouTube Music",
+              "url": "https://music.youtube.com/",
+              "icon": "/icons/Entertainment/Music/YouTube Music.png"
+            }
+          ]
+        },
+        {
+          "name": "短视频",
+          "tags": [
+            {
+              "name": "抖音",
+              "url": "https://www.douyin.com/",
+              "icon": "/icons/Entertainment/ShortVideo/抖音.png"
+            },
+            {
+              "name": "抖音精选",
+              "url": "https://www.douyin.com/jingxuan",
+              "icon": "/icons/Entertainment/Video/抖音精选.png"
+            },
+            {
+              "name": "快手",
+              "url": "https://www.kuaishou.com/",
+              "icon": "/icons/Entertainment/ShortVideo/快手.png"
+            },
+            {
+              "name": "小红书",
+              "url": "https://www.xiaohongshu.com/",
+              "icon": "/icons/Entertainment/ShortVideo/小红书.png"
+            },
+            {
+              "name": "视频号",
+              "url": "https://channels.weixin.qq.com/",
+              "icon": "/icons/Entertainment/ShortVideo/视频号.png"
+            },
+            {
+              "name": "Instagram Reels",
+              "url": "https://www.instagram.com/reels/",
+              "icon": "/icons/Entertainment/ShortVideo/Instagram Reels.png"
+            },
+            {
+              "name": "YouTube Shorts",
+              "url": "https://www.youtube.com/shorts/",
+              "icon": "/icons/Entertainment/ShortVideo/YouTube Shorts.png"
+            }
+          ]
+        },
+        {
+          "name": "直播",
+          "tags": [
+            {
+              "name": "斗鱼",
+              "url": "https://www.douyu.com/",
+              "icon": "/icons/Entertainment/Live/斗鱼.png"
+            },
+            {
+              "name": "虎牙",
+              "url": "https://www.huya.com/",
+              "icon": "/icons/Entertainment/Live/虎牙.png"
+            },
+            {
+              "name": "B站直播",
+              "url": "https://live.bilibili.com/",
+              "icon": "/icons/Entertainment/Live/B站直播.png"
+            },
+            {
+              "name": "抖音直播",
+              "url": "https://live.douyin.com/",
+              "icon": "/icons/Entertainment/Live/抖音直播.png"
+            },
+            {
+              "name": "快手直播",
+              "url": "https://live.kuaishou.com/",
+              "icon": "/icons/Entertainment/Live/快手直播.png"
+            },
+            {
+              "name": "YY直播",
+              "url": "https://www.yy.com/",
+              "icon": "/icons/Entertainment/Live/YY直播.png"
+            },
+            {
+              "name": "Twitch",
+              "url": "https://www.twitch.tv/",
+              "icon": "/icons/Entertainment/Live/Twitch.png"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "name": "游戏",
+      "subcategories": [
+        {
+          "name": "平台",
+          "tags": [
+            {
+              "name": "Steam",
+              "url": "https://store.steampowered.com/",
+              "icon": "/icons/Game/Platform/Steam.png"
+            },
+            {
+              "name": "Epic",
+              "url": "https://store.epicgames.com/",
+              "icon": "/icons/Game/Platform/Epic.png"
+            },
+            {
+              "name": "WeGame",
+              "url": "https://www.wegame.com.cn/",
+              "icon": "/icons/Game/Platform/WeGame.png"
+            },
+            {
+              "name": "战网",
+              "url": "https://www.blizzard.com/",
+              "icon": "/icons/Game/Platform/战网.png"
+            },
+            {
+              "name": "Ubisoft",
+              "url": "https://ubisoft.com/",
+              "icon": "/icons/Game/Platform/Ubisoft.png"
+            },
+            {
+              "name": "EA",
+              "url": "https://www.ea.com/",
+              "icon": "/icons/Game/Platform/EA.svg"
+            },
+            {
+              "name": "GOG",
+              "url": "https://www.gog.com/",
+              "icon": "/icons/Game/Platform/GOG.png"
+            }
+          ]
+        },
+        {
+          "name": "手游",
+          "tags": [
+            {
+              "name": "王者荣耀",
+              "url": "https://pvp.qq.com/",
+              "icon": "/icons/Game/MobileGame/王者荣耀.png"
+            },
+            {
+              "name": "和平精英",
+              "url": "https://gp.qq.com/",
+              "icon": "/icons/Game/MobileGame/和平精英.png"
+            },
+            {
+              "name": "原神",
+              "url": "https://ys.mihoyo.com/",
+              "icon": "/icons/Game/MobileGame/原神.png"
+            },
+            {
+              "name": "崩坏星穹铁道",
+              "url": "https://sr.mihoyo.com/",
+              "icon": "/icons/Game/MobileGame/崩坏星穹铁道.png"
+            },
+            {
+              "name": "绝区零",
+              "url": "https://zzz.mihoyo.com/",
+              "icon": "/icons/Game/MobileGame/绝区零.png"
+            },
+            {
+              "name": "无畏契约",
+              "url": "https://valm.qq.com/main.html",
+              "icon": "/icons/Game/MobileGame/无畏契约.png"
+            },
+            {
+              "name": "金铲铲之战",
+              "url": "https://jcc.qq.com/",
+              "icon": "/icons/Game/MobileGame/金铲铲之战.png"
+            },
+            {
+              "name": "三角洲行动",
+              "url": "https://df.qq.com/index.shtml",
+              "icon": "/icons/Game/MobileGame/三角洲行动.png"
+            },
+            {
+              "name": "明日方舟",
+              "url": "https://ak.hypergryph.com/",
+              "icon": "/icons/Game/MobileGame/明日方舟.png"
+            },
+            {
+              "name": "蛋仔派对",
+              "url": "https://danzai.163.com/",
+              "icon": "/icons/Game/MobileGame/蛋仔派对.png"
+            },
+            {
+              "name": "第五人格",
+              "url": "https://id5.163.com/",
+              "icon": "/icons/Game/MobileGame/第五人格.png"
+            },
+            {
+              "name": "阴阳师",
+              "url": "https://yys.163.com/",
+              "icon": "/icons/Game/MobileGame/阴阳师.png"
+            },
+            {
+              "name": "梦幻西游",
+              "url": "https://xyq.163.com/",
+              "icon": "/icons/Game/MobileGame/梦幻西游.png"
+            },
+            {
+              "name": "开心消消乐",
+              "url": "https://kxxxl.leyuansu.com/",
+              "icon": "/icons/Game/MobileGame/开心消消乐.png"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "name": "购物",
+      "subcategories": [
+        {
+          "name": "综合",
+          "tags": [
+            {
+              "name": "淘宝",
+              "url": "https://www.taobao.com/",
+              "icon": "/icons/Shopping/General/淘宝.png"
+            },
+            {
+              "name": "京东",
+              "url": "https://www.jd.com/",
+              "icon": "/icons/Shopping/General/京东.png"
+            },
+            {
+              "name": "拼多多",
+              "url": "https://www.pinduoduo.com/",
+              "icon": "/icons/Shopping/General/拼多多.png"
+            },
+            {
+              "name": "唯品会",
+              "url": "https://www.vip.com/",
+              "icon": "/icons/Shopping/General/唯品会.png"
+            },
+            {
+              "name": "小米有品",
+              "url": "https://www.xiaomiyoupin.com/",
+              "icon": "/icons/Shopping/General/小米有品.png"
+            },
+            {
+              "name": "网易严选",
+              "url": "https://you.163.com/",
+              "icon": "/icons/Shopping/General/网易严选.png"
+            },
+            {
+              "name": "苏宁易购",
+              "url": "https://www.suning.com/",
+              "icon": "/icons/Shopping/General/苏宁易购.png"
+            },
+            {
+              "name": "1688",
+              "url": "https://www.1688.com/",
+              "icon": "/icons/Shopping/General/1688.png"
+            },
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/",
+              "icon": "/icons/Shopping/General/Amazon.png"
+            },
+            {
+              "name": "eBay",
+              "url": "https://www.ebay.com/",
+              "icon": "/icons/Shopping/General/eBay.png"
+            },
+            {
+              "name": "AliExpress",
+              "url": "https://www.aliexpress.com/",
+              "icon": "/icons/Shopping/General/AliExpress.png"
+            },
+            {
+              "name": "天猫国际",
+              "url": "https://www.tmall.hk/",
+              "icon": "/icons/Shopping/General/天猫国际.png"
+            },
+            {
+              "name": "京东国际",
+              "url": "https://jd.hk/",
+              "icon": "/icons/Shopping/General/京东国际.png"
+            }
+          ]
+        },
+        {
+          "name": "二手",
+          "tags": [
+            {
+              "name": "闲鱼",
+              "url": "https://www.goofish.com/",
+              "icon": "/icons/Shopping/SecondHand/闲鱼.png"
+            },
+            {
+              "name": "转转",
+              "url": "https://www.zhuanzhuan.com/",
+              "icon": "/icons/Shopping/SecondHand/转转.png"
+            },
+            {
+              "name": "得物",
+              "url": "https://dewu.com/",
+              "icon": "/icons/Shopping/SecondHand/得物.png"
+            },
+            {
+              "name": "爱回收",
+              "url": "https://www.aihuishou.com/",
+              "icon": "/icons/Shopping/SecondHand/爱回收.png"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "name": "AI工具",
+      "subcategories": [
+        {
+          "name": "对话",
+          "tags": [
+            {
+              "name": "DeepSeek",
+              "url": "https://www.deepseek.com/",
+              "icon": "/icons/AITools/Chat/DeepSeek.png"
+            },
+            {
+              "name": "豆包",
+              "url": "https://www.doubao.com/",
+              "icon": "/icons/AITools/Chat/豆包.png"
+            },
+            {
+              "name": "GLM",
+              "url": "https://www.zhipuai.cn/zh",
+              "icon": "/icons/AITools/Chat/GLM.png"
+            },
+            {
+              "name": "Kimi",
+              "url": "https://www.kimi.com/",
+              "icon": "/icons/AITools/Chat/Kimi.png"
+            },
+            {
+              "name": "元宝",
+              "url": "https://yuanbao.tencent.com/",
+              "icon": "/icons/AITools/Chat/元宝.png"
+            },
+            {
+              "name": "千问",
+              "url": "https://www.qianwen.com/",
+              "icon": "/icons/AITools/Chat/千问.png"
+            },
+            {
+              "name": "ChatGPT",
+              "url": "https://chatgpt.com/",
+              "icon": "/icons/AITools/Chat/ChatGPT.png"
+            },
+            {
+              "name": "Claude",
+              "url": "https://claude.ai/",
+              "icon": "/icons/AITools/Chat/Claude.png"
+            },
+            {
+              "name": "Gemini",
+              "url": "https://gemini.google.com/",
+              "icon": "/icons/AITools/Chat/Gemini.svg"
+            },
+            {
+              "name": "文心一言",
+              "url": "https://yiyan.baidu.com/",
+              "icon": "/icons/AITools/Chat/文心一言.png"
+            },
+            {
+              "name": "讯飞星火",
+              "url": "https://xinghuo.xfyun.cn/",
+              "icon": "/icons/AITools/Chat/讯飞星火.png"
+            },
+            {
+              "name": "Perplexity",
+              "url": "https://www.perplexity.ai/",
+              "icon": "/icons/AITools/Chat/Perplexity.png"
+            }
+          ]
+        },
+        {
+          "name": "编程",
+          "tags": [
+            {
+              "name": "Kiro",
+              "url": "https://kiro.dev/",
+              "icon": "/icons/AITools/Coding/Kiro.png"
+            },
+            {
+              "name": "Trae",
+              "url": "https://www.trae.cn/",
+              "icon": "/icons/AITools/Coding/Trae.png"
+            },
+            {
+              "name": "Qoder",
+              "url": "https://qoder.com/",
+              "icon": "/icons/AITools/Coding/Qoder.png"
+            },
+            {
+              "name": "CodeBuddy",
+              "url": "https://www.codebuddy.cn/",
+              "icon": "/icons/AITools/Coding/CodeBuddy.svg"
+            },
+            {
+              "name": "Cursor",
+              "url": "https://cursor.com/cn",
+              "icon": "/icons/AITools/Coding/Cursor.png"
+            },
+            {
+              "name": "Claude Code",
+              "url": "https://claude.com",
+              "icon": "/icons/AITools/Coding/Claude Code.png"
+            },
+            {
+              "name": "GitHub Copilot",
+              "url": "https://github.com/features/copilot",
+              "icon": "/icons/AITools/Coding/GitHub Copilot.png"
+            },
+            {
+              "name": "Windsurf",
+              "url": "https://codeium.com/windsurf",
+              "icon": "/icons/AITools/Coding/Windsurf.png"
+            }
+          ]
+        },
+        {
+          "name": "图像",
+          "tags": [
+            {
+              "name": "Midjourney",
+              "url": "https://www.midjourney.com/",
+              "icon": "/icons/AITools/Image/Midjourney.png"
+            },
+            {
+              "name": "DALL-E",
+              "url": "https://openai.com/dall-e",
+              "icon": "/icons/AITools/Image/DALL-E.png"
+            }
+          ]
+        },
+        {
+          "name": "视频",
+          "tags": [
+            {
+              "name": "可灵",
+              "url": "https://klingai.kuaishou.com/",
+              "icon": "/icons/AITools/Video/可灵.png"
+            },
+            {
+              "name": "即梦",
+              "url": "https://jimeng.jianying.com/",
+              "icon": "/icons/AITools/Video/即梦.png"
+            },
+            {
+              "name": "Runway",
+              "url": "https://runwayml.com/",
+              "icon": "/icons/AITools/Video/Runway.png"
+            },
+            {
+              "name": "Pika",
+              "url": "https://pika.art/",
+              "icon": "/icons/AITools/Video/Pika.png"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "name": "开发设计",
+      "subcategories": [
+        {
+          "name": "代码托管",
+          "tags": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com",
+              "icon": "/icons/Development/CodeHosting/GitHub.svg"
+            },
+            {
+              "name": "GitLab",
+              "url": "https://gitlab.com/",
+              "icon": "/icons/Development/CodeHosting/GitLab.png"
+            },
+            {
+              "name": "Gitee",
+              "url": "https://gitee.com/",
+              "icon": "/icons/Development/CodeHosting/Gitee.png"
+            },
+            {
+              "name": "Bitbucket",
+              "url": "https://bitbucket.org/",
+              "icon": "/icons/Development/CodeHosting/Bitbucket.png"
+            }
+          ]
+        },
+        {
+          "name": "开发工具",
+          "tags": [
+            {
+              "name": "VS Code",
+              "url": "https://code.visualstudio.com",
+              "icon": "/icons/Development/DevTools/VS Code.png"
+            },
+            {
+              "name": "Visual Studio",
+              "url": "https://visualstudio.microsoft.com/",
+              "icon": "/icons/Development/DevTools/Visual Studio.svg"
+            },
+            {
+              "name": "IDEA",
+              "url": "https://www.jetbrains.com/idea/",
+              "icon": "/icons/Development/DevTools/IDEA.svg"
+            },
+            {
+              "name": "PyCharm",
+              "url": "https://www.jetbrains.com/pycharm/",
+              "icon": "/icons/Development/DevTools/PyCharm.svg"
+            },
+            {
+              "name": "WebStorm",
+              "url": "https://www.jetbrains.com/webstorm/",
+              "icon": "/icons/Development/DevTools/WebStorm.svg"
+            },
+            {
+              "name": "Android Studio",
+              "url": "https://developer.android.com/studio",
+              "icon": "/icons/Development/DevTools/Android Studio.svg"
+            },
+            {
+              "name": "Eclipse",
+              "url": "https://www.eclipse.org/",
+              "icon": "/icons/Development/DevTools/Eclipse.png"
+            },
+            {
+              "name": "Xcode",
+              "url": "https://developer.apple.com/xcode/",
+              "icon": "/icons/Development/DevTools/Xcode.png"
+            },
+            {
+              "name": "Postman",
+              "url": "https://www.postman.com/",
+              "icon": "/icons/Development/DevTools/Postman.png"
+            },
+            {
+              "name": "Docker",
+              "url": "https://www.docker.com/",
+              "icon": "/icons/Development/DevTools/Docker.png"
+            },
+            {
+              "name": "Docker Hub",
+              "url": "https://hub.docker.com/",
+              "icon": "/icons/Development/DevTools/Docker Hub.png"
+            },
+            {
+              "name": "MySQL",
+              "url": "https://www.mysql.com/",
+              "icon": "/icons/Development/DevTools/MySQL.png"
+            },
+            {
+              "name": "Navicat",
+              "url": "https://www.navicat.com/",
+              "icon": "/icons/Development/DevTools/Navicat.png"
+            },
+            {
+              "name": "Redis",
+              "url": "https://redis.io/",
+              "icon": "/icons/Development/DevTools/Redis.png"
+            },
+            {
+              "name": "MongoDB",
+              "url": "https://www.mongodb.com/",
+              "icon": "/icons/Development/DevTools/MongoDB.png"
+            }
+          ]
+        },
+        {
+          "name": "开发文档",
+          "tags": [
+            {
+              "name": "MDN",
+              "url": "https://developer.mozilla.org/",
+              "icon": "/icons/Development/DevDocs/MDN.png"
+            },
+            {
+              "name": "DevDocs",
+              "url": "https://devdocs.io/",
+              "icon": "/icons/Development/DevDocs/DevDocs.png"
+            },
+            {
+              "name": "Can I Use",
+              "url": "https://caniuse.com/",
+              "icon": "/icons/Development/DevDocs/Can I Use.png"
+            }
+          ]
+        },
+        {
+          "name": "设计工具",
+          "tags": [
+            {
+              "name": "Figma",
+              "url": "https://www.figma.com/",
+              "icon": "/icons/Development/DesignTools/Figma.png"
+            },
+            {
+              "name": "Canva",
+              "url": "https://www.canva.com/",
+              "icon": "/icons/Development/DesignTools/Canva.png"
+            },
+            {
+              "name": "Adobe XD",
+              "url": "https://www.adobe.com/products/xd.html",
+              "icon": "/icons/Development/DesignTools/Adobe XD.png"
+            },
+            {
+              "name": "Sketch",
+              "url": "https://www.sketch.com/",
+              "icon": "/icons/Development/DesignTools/Sketch.png"
+            }
+          ]
+        },
+        {
+          "name": "设计资源",
+          "tags": [
+            {
+              "name": "站酷",
+              "url": "https://www.zcool.com.cn/",
+              "icon": "/icons/Development/DesignResources/站酷.png"
+            },
+            {
+              "name": "花瓣",
+              "url": "https://huaban.com/",
+              "icon": "/icons/Development/DesignResources/花瓣.svg"
+            },
+            {
+              "name": "Dribbble",
+              "url": "https://dribbble.com/",
+              "icon": "/icons/Development/DesignResources/Dribbble.svg"
+            },
+            {
+              "name": "Behance",
+              "url": "https://www.behance.net/",
+              "icon": "/icons/Development/DesignResources/Behance.png"
+            },
+            {
+              "name": "Unsplash",
+              "url": "https://unsplash.com/",
+              "icon": "/icons/Development/DesignResources/Unsplash.png"
+            },
+            {
+              "name": "Pexels",
+              "url": "https://www.pexels.com/",
+              "icon": "/icons/Development/DesignResources/Pexels.png"
+            }
+          ]
+        },
+        {
+          "name": "包管理器",
+          "tags": [
+            {
+              "name": "npm",
+              "url": "https://www.npmjs.com/",
+              "icon": ""
+            },
+            {
+              "name": "yarn",
+              "url": "https://yarnpkg.com/",
+              "icon": ""
+            },
+            {
+              "name": "pip",
+              "url": "https://pypi.org/",
+              "icon": ""
+            },
+            {
+              "name": "Maven Central",
+              "url": "https://search.maven.org/",
+              "icon": ""
+            }
+          ]
+        },
+        {
+          "name": "API文档",
+          "tags": [
+            {
+              "name": "Swagger",
+              "url": "https://swagger.io/",
+              "icon": ""
+            },
+            {
+              "name": "Apifox",
+              "url": "https://www.apifox.cn/",
+              "icon": ""
+            },
+            {
+              "name": "YApi",
+              "url": "https://yapi.pro/",
+              "icon": ""
+            },
+            {
+              "name": "Eolinker",
+              "url": "https://www.eolinker.com/",
+              "icon": ""
+            }
+          ]
+        },
+        {
+          "name": "在线工具",
+          "tags": [
+            {
+              "name": "CodePen",
+              "url": "https://codepen.io/",
+              "icon": ""
+            },
+            {
+              "name": "JSFiddle",
+              "url": "https://jsfiddle.net/",
+              "icon": ""
+            },
+            {
+              "name": "StackBlitz",
+              "url": "https://stackblitz.com/",
+              "icon": ""
+            },
+            {
+              "name": "Replit",
+              "url": "https://replit.com/",
+              "icon": ""
+            }
+          ]
+        },
+        {
+          "name": "图标库",
+          "tags": [
+            {
+              "name": "iconfont",
+              "url": "https://www.iconfont.cn/",
+              "icon": ""
+            },
+            {
+              "name": "Font Awesome",
+              "url": "https://fontawesome.com/",
+              "icon": ""
+            },
+            {
+              "name": "Material Icons",
+              "url": "https://fonts.google.com/icons",
+              "icon": ""
+            },
+            {
+              "name": "Iconify",
+              "url": "https://iconify.design/",
+              "icon": ""
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "name": "资讯",
+      "subcategories": [
+        {
+          "name": "综合",
+          "tags": [
+            {
+              "name": "人民网",
+              "url": "http://www.people.com.cn/",
+              "icon": "/icons/News/General/人民网.png"
+            },
+            {
+              "name": "新华网",
+              "url": "http://www.xinhuanet.com/",
+              "icon": "/icons/News/General/新华网.png"
+            },
+            {
+              "name": "央视网",
+              "url": "https://www.cctv.com/",
+              "icon": "/icons/News/General/央视网.png"
+            },
+            {
+              "name": "中国新闻网",
+              "url": "https://www.chinanews.com.cn/",
+              "icon": "/icons/News/General/中国新闻网.png"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/",
+              "icon": "/icons/News/General/BBC.png"
+            },
+            {
+              "name": "CNN",
+              "url": "https://www.cnn.com/",
+              "icon": "/icons/News/General/CNN.png"
+            },
+            {
+              "name": "纽约时报",
+              "url": "https://www.nytimes.com/",
+              "icon": "/icons/News/General/纽约时报.png"
+            },
+            {
+              "name": "路透社",
+              "url": "https://www.reuters.com/",
+              "icon": "/icons/News/General/路透社.png"
+            },
+            {
+              "name": "腾讯新闻",
+              "url": "https://news.qq.com/",
+              "icon": "/icons/News/General/腾讯新闻.png"
+            },
+            {
+              "name": "新浪新闻",
+              "url": "https://news.sina.com.cn/",
+              "icon": "/icons/News/General/新浪新闻.png"
+            },
+            {
+              "name": "网易新闻",
+              "url": "https://news.163.com/",
+              "icon": "/icons/News/General/网易新闻.png"
+            },
+            {
+              "name": "今日头条",
+              "url": "https://www.toutiao.com/",
+              "icon": "/icons/News/General/今日头条.png"
+            }
+          ]
+        },
+        {
+          "name": "科技",
+          "tags": [
+            {
+              "name": "36氪",
+              "url": "https://36kr.com/",
+              "icon": "/icons/News/Tech/36氪.png"
+            },
+            {
+              "name": "虎嗅",
+              "url": "https://www.huxiu.com/",
+              "icon": "/icons/News/Tech/虎嗅.png"
+            },
+            {
+              "name": "钛媒体",
+              "url": "https://www.tmtpost.com/",
+              "icon": "/icons/News/Tech/钛媒体.png"
+            },
+            {
+              "name": "IT之家",
+              "url": "https://www.ithome.com/",
+              "icon": "/icons/News/Tech/IT之家.png"
+            },
+            {
+              "name": "少数派",
+              "url": "https://sspai.com/",
+              "icon": "/icons/News/Tech/少数派.png"
+            },
+            {
+              "name": "爱范儿",
+              "url": "https://www.ifanr.com/",
+              "icon": "/icons/News/Tech/爱范儿.png"
+            }
+          ]
+        },
+        {
+          "name": "财经",
+          "tags": [
+            {
+              "name": "东方财富网",
+              "url": "https://www.eastmoney.com/",
+              "icon": "/icons/News/Finance/东方财富网.png"
+            },
+            {
+              "name": "同花顺",
+              "url": "https://www.10jqka.com.cn/",
+              "icon": "/icons/News/Finance/同花顺.png"
+            },
+            {
+              "name": "新浪财经",
+              "url": "https://finance.sina.com.cn/",
+              "icon": "/icons/News/Finance/新浪财经.png"
+            },
+            {
+              "name": "雪球",
+              "url": "https://xueqiu.com/",
+              "icon": "/icons/News/Finance/雪球.png"
+            },
+            {
+              "name": "华尔街日报",
+              "url": "https://cn.wsj.com/",
+              "icon": "/icons/News/Finance/华尔街日报.svg"
+            },
+            {
+              "name": "彭博社",
+              "url": "https://www.bloomberg.com/",
+              "icon": "/icons/News/Finance/彭博社.png"
+            },
+            {
+              "name": "FT",
+              "url": "https://www.ft.com/",
+              "icon": "/icons/News/Finance/FT.png"
+            },
+            {
+              "name": "财新网",
+              "url": "https://www.caixin.com/",
+              "icon": "/icons/News/Finance/财新网.png"
+            },
+            {
+              "name": "第一财经",
+              "url": "https://www.yicai.com/",
+              "icon": "/icons/News/Finance/第一财经.png"
+            }
+          ]
+        },
+        {
+          "name": "体育",
+          "tags": [
+            {
+              "name": "虎扑",
+              "url": "https://www.hupu.com/",
+              "icon": "/icons/News/Sports/虎扑.png"
+            },
+            {
+              "name": "腾讯体育",
+              "url": "https://sports.qq.com/",
+              "icon": "/icons/News/Sports/腾讯体育.png"
+            },
+            {
+              "name": "新浪体育",
+              "url": "https://sports.sina.com.cn/",
+              "icon": "/icons/News/Sports/新浪体育.png"
+            },
+            {
+              "name": "网易体育",
+              "url": "https://sports.163.com/",
+              "icon": "/icons/News/Sports/网易体育.png"
+            },
+            {
+              "name": "懂球帝",
+              "url": "https://www.dongqiudi.com/",
+              "icon": "/icons/News/Sports/懂球帝.png"
+            }
+          ]
+        },
+        {
+          "name": "娱乐",
+          "tags": [
+            {
+              "name": "新浪娱乐",
+              "url": "https://ent.sina.com.cn/",
+              "icon": "/icons/News/Entertainment/新浪娱乐.png"
+            },
+            {
+              "name": "网易娱乐",
+              "url": "https://ent.163.com/",
+              "icon": "/icons/News/Entertainment/网易娱乐.png"
+            },
+            {
+              "name": "腾讯娱乐",
+              "url": "https://ent.qq.com/",
+              "icon": "/icons/News/Entertainment/腾讯娱乐.png"
+            },
+            {
+              "name": "搜狐娱乐",
+              "url": "https://yule.sohu.com/",
+              "icon": "/icons/News/Entertainment/搜狐娱乐.png"
+            },
+            {
+              "name": "豆瓣电影",
+              "url": "https://movie.douban.com/",
+              "icon": "/icons/News/Entertainment/豆瓣电影.png"
+            },
+            {
+              "name": "时光网",
+              "url": "https://www.mtime.com/",
+              "icon": "/icons/News/Entertainment/时光网.png"
+            }
+          ]
+        },
+        {
+          "name": "开发者社区",
+          "tags": [
+            {
+              "name": "掘金",
+              "url": "https://juejin.cn/",
+              "icon": ""
+            },
+            {
+              "name": "CSDN",
+              "url": "https://www.csdn.net/",
+              "icon": ""
+            },
+            {
+              "name": "博客园",
+              "url": "https://www.cnblogs.com/",
+              "icon": ""
+            },
+            {
+              "name": "SegmentFault",
+              "url": "https://segmentfault.com/",
+              "icon": ""
+            },
+            {
+              "name": "V2EX",
+              "url": "https://www.v2ex.com/",
+              "icon": ""
+            },
+            {
+              "name": "Stack Overflow",
+              "url": "https://stackoverflow.com/",
+              "icon": ""
+            }
+          ]
+        },
+        {
+          "name": "设计社区",
+          "tags": [
+            {
+              "name": "UI中国",
+              "url": "https://www.ui.cn/",
+              "icon": ""
+            },
+            {
+              "name": "优设网",
+              "url": "https://www.uisdc.com/",
+              "icon": ""
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "name": "影音阅读",
+      "subcategories": [
+        {
+          "name": "播客",
+          "tags": [
+            {
+              "name": "小宇宙",
+              "url": "https://www.xiaoyuzhoufm.com/",
+              "icon": ""
+            },
+            {
+              "name": "喜马拉雅",
+              "url": "https://www.ximalaya.com/",
+              "icon": ""
+            },
+            {
+              "name": "荔枝FM",
+              "url": "https://www.lizhi.fm/",
+              "icon": ""
+            },
+            {
+              "name": "蜻蜓FM",
+              "url": "https://www.qingting.fm/",
+              "icon": ""
+            }
+          ]
+        },
+        {
+          "name": "电子书",
+          "tags": [
+            {
+              "name": "微信读书",
+              "url": "https://weread.qq.com/",
+              "icon": ""
+            },
+            {
+              "name": "Kindle",
+              "url": "https://www.amazon.cn/kindle",
+              "icon": ""
+            },
+            {
+              "name": "多看阅读",
+              "url": "https://www.duokan.com/",
+              "icon": ""
+            },
+            {
+              "name": "掌阅",
+              "url": "https://www.zhangyue.com/",
+              "icon": ""
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "name": "金融服务",
+      "subcategories": [],
+      "tags": [
+        {
+          "name": "中国工商银行",
+          "url": "https://www.icbc.com.cn/",
+          "icon": ""
+        },
+        {
+          "name": "中国建设银行",
+          "url": "https://www.ccb.com/",
+          "icon": ""
+        },
+        {
+          "name": "中国农业银行",
+          "url": "https://www.abchina.com/",
+          "icon": ""
+        },
+        {
+          "name": "中国银行",
+          "url": "https://www.boc.cn/",
+          "icon": ""
+        },
+        {
+          "name": "招商银行",
+          "url": "https://www.cmbchina.com/",
+          "icon": ""
+        },
+        {
+          "name": "支付宝理财",
+          "url": "https://www.alipay.com/",
+          "icon": ""
+        },
+        {
+          "name": "微信理财通",
+          "url": "https://www.tenpay.com/",
+          "icon": ""
+        },
+        {
+          "name": "天天基金",
+          "url": "https://fund.eastmoney.com/",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "name": "房产汽车",
+      "subcategories": [
+        {
+          "name": "房产",
+          "tags": [
+            {
+              "name": "贝壳找房",
+              "url": "https://www.ke.com/",
+              "icon": ""
+            },
+            {
+              "name": "链家",
+              "url": "https://www.lianjia.com/",
+              "icon": ""
+            },
+            {
+              "name": "安居客",
+              "url": "https://www.anjuke.com/",
+              "icon": ""
+            }
+          ]
+        },
+        {
+          "name": "汽车",
+          "tags": [
+            {
+              "name": "汽车之家",
+              "url": "https://www.autohome.com.cn/",
+              "icon": ""
+            },
+            {
+              "name": "懂车帝",
+              "url": "https://www.dongchedi.com/",
+              "icon": ""
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}
